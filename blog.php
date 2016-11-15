@@ -168,26 +168,17 @@
             </div>
         </div>
         <?php 
-        include 'footer.php';
-        
-        $footer = new Footer;
-        $footer->display_content();
-    ?>
-            <div id="image-cache" class="hidden"></div>
-            <!-- JS -->
-            <script src="assets/vendor/jquery/js/jquery-2.2.0.min.js" type="text/javascript"></script>
-            <script src="assets/vendor/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-            <script src="assets/vendor/imagesloaded/js/imagesloaded.pkgd.min.js" type="text/javascript"></script>
-            <script src="assets/vendor/isotope/js/isotope.pkgd.min.js" type="text/javascript"></script>
-            <script src="assets/vendor/mfp/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
-            <script src="assets/vendor/circle-progress/circle-progress.js" type="text/javascript"></script>
-            <script src="assets/vendor/waypoints/waypoints.min.js" type="text/javascript"></script>
-            <script src="assets/vendor/anicounter/jquery.counterup.min.js" type="text/javascript"></script>
-            <!--<script src="assets/vendor/wow/wow.min.js"                           type="text/javascript"></script>-->
-            <script src="assets/vendor/pjax/jquery.pjax.js" type="text/javascript"></script>
-            <script src="https://maps.google.com/maps/api/js" type="text/javascript"></script>
-            <!-- Custom scripts -->
-            <script src="assets/custom/js/custom.js" type="text/javascript"></script>
+            include 'footer.php';
+
+            $footer = new Footer;
+            $footer->display_content();
+        ?>
+            <?php 
+            include 'javascriptContent.php';
+            
+            $javascriptContent = new JavascriptContent;
+            $javascriptContent->display_content();
+        ?>
 </body>
 
 </html>
