@@ -35,13 +35,13 @@
         
         function setup_download_vendors() {
             for($i = 0; $i < count($this->downloadVendors); $i++) {
-                $this->content .= sprintf($this->template, $this->ownedVendors[$i]);
+                $this->content .= sprintf($this->template, $this->downloadVendors[$i]);
             }
         }
         
         function setup_custom() {
             for($i = 0; $i < count($this->custom); $i++) {
-                $this->content .= sprintf($this->template, $this->ownedVendors[$i]);
+                $this->content .= sprintf($this->template, $this->custom[$i]);
             }
         }
     }
