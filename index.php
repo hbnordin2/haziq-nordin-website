@@ -138,6 +138,13 @@
                                 <ul class="">
                                     <li class="date">2016</li>
                                     <li class="company uppercase"> <a>
+                           Summer Research Scholar
+                        </a> </li>
+                                    <li class="position">Summer research scholar at the Queensland Brain Institute</li>
+                                </ul>
+                                <ul class="">
+                                    <li class="date">2016</li>
+                                    <li class="company uppercase"> <a>
                            Dean's Commendation for Academic Excellence
                         </a> </li>
                                     <li class="position">Academic Award</li>
@@ -193,7 +200,7 @@
                                         <div class="circle font-accident-one-normal" data-percent="20">
                                             <div></div>
                                             <h4 class="font-accident-one-normal uppercase">Experience</h4>
-                                            <p class="font-regular-normal"> I have not got a lot of work experience, but I'm motivated, hard-working and capable. </p> <a href="#!" class="btn btn-wh-trans btn-xs">Learn More</a> </div>
+                                            <p class="font-regular-normal"> I'm currently looking for opportunities for work experience as a software engineer. </p> <a href="#!" class="btn btn-wh-trans btn-xs">Learn More</a> </div>
                                     </div>
                                 </div>
                             </div>

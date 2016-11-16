@@ -593,9 +593,11 @@
   background-size: cover;
 }
 .timeline-bg02-01 {
-  background: url("../images/timeline-2-01.jpg");
-  background-position: center;
-  background-size: cover;
+    background: url("../images/uqlogo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
 }
 .timeline-bg03 {
   background: url("../images/timeline-3.jpg");
@@ -603,9 +605,11 @@
   background-size: cover;
 }
 .timeline-bg03-01 {
-  background: url("../images/timeline-3-01.jpg");
-  background-position: center;
-  background-size: cover;
+    background: url("../images/uqcs.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
 }
 .timeline-bg04 {
   background: url("../images/timeline-4.jpg");
@@ -613,7 +617,7 @@
   background-size: cover;
 }
 .timeline-bg04-01 {
-  background: url("../images/timeline-4-01.jpg");
+  background: url("../images/UQArchitecture.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -1563,4 +1567,10 @@ footer {
 
 //@import "ui-08-blue.scss";
 
-
+.qbi-picture {
+    background: url("../images/qbi.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+}

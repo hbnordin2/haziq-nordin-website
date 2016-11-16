@@ -1537,9 +1537,12 @@ button, input, select, textarea {
   background-size: cover; }
 
 .timeline-bg02-01 {
-  background: url("../images/timeline-2-01.jpg");
-  background-position: center;
-  background-size: cover; }
+    background: url("../images/uqlogo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+}
 
 .timeline-bg03 {
   background: url("../images/timeline-3.jpg");
@@ -1547,7 +1550,7 @@ button, input, select, textarea {
   background-size: cover; }
 
 .timeline-bg03-01 {
-  background: url("../images/timeline-3-01.jpg");
+  background: url("../images/uqcs.jpg");
   background-position: center;
   background-size: cover; }
 
@@ -1557,7 +1560,7 @@ button, input, select, textarea {
   background-size: cover; }
 
 .timeline-bg04-01 {
-  background: url("../images/timeline-4-01.jpg");
+  background: url("../images/UQArchitecture.jpg");
   background-position: center;
   background-size: cover; }
 
