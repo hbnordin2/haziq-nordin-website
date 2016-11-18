@@ -102,14 +102,6 @@
                                 </div>
                                 <div class="fullwidth box">
                                     <div class="one">
-                                        <p class="small uppercase">Address:</p>
-                                    </div>
-                                    <div class="two">
-                                        <p class="small">48 Walcott Street, St Lucia, Brisbane Australia</p>
-                                    </div>
-                                </div>
-                                <div class="fullwidth box">
-                                    <div class="one">
                                         <p class="small uppercase">Phone:</p>
                                     </div>
                                     <div class="two">

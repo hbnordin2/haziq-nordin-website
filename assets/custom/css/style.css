@@ -3297,3 +3297,16 @@ footer .copyrights p {
 
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* Resume page */
+
+.resume-section {
+    font-size: 21px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    color:#2F2F2F;
+}
+.resume-subheader {
+    font-size:16px;
+}

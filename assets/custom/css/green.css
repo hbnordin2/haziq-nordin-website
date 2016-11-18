@@ -1537,7 +1537,7 @@ button, input, select, textarea {
   background-size: cover; }
 
 .timeline-bg02-01 {
-background: url("../images/uqlogo.jpg");
+    background: url("../images/uqlogo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
